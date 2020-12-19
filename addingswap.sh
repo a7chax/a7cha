@@ -1,3 +1,4 @@
+## tested on ubuntu 20.04
 sudo fallocate -l 1G /swapfile && 
 sudo chmod 600 /swapfile && 
 sudo mkswap /swapfile&& 
