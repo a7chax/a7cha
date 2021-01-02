@@ -17,6 +17,8 @@ vim
 zsh
 mysql
 nginx
+php-fpm
+php
 adminer
 git-secret
 sdkman
