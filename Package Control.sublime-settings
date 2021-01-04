@@ -1,0 +1,19 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"All Autocomplete",
+		"BracketHighlighter",
+		"C Improved",
+		"HTMLBeautify",
+		"JsPrettier",
+		"Naomi",
+		"Package Control",
+		"Sublime ES7 React Redux ReactNative JS snippets",
+		"SublimeLinter",
+		"WakaTime"
+	]
+}
