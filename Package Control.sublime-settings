@@ -7,13 +7,16 @@
 	[
 		"All Autocomplete",
 		"BracketHighlighter",
-		"C Improved",
 		"HTMLBeautify",
 		"JsPrettier",
 		"Naomi",
 		"Package Control",
+		"Persistent Status Bar Line Number",
 		"Sublime ES7 React Redux ReactNative JS snippets",
 		"SublimeLinter",
+		"SublimeLinter-clang",
+		"SublimeLinter-eslint",
+		"VIM Navigation",
 		"WakaTime"
 	]
 }
