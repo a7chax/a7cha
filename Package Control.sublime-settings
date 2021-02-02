@@ -30,6 +30,7 @@
 		"ImportJS",
 		"Intellekt",
 		"JsPrettier",
+		"Kotlin",
 		"Naomi",
 		"OpenFilesLister",
 		"OpenPath",
@@ -40,7 +41,9 @@
 		"Sublime ES7 React Redux ReactNative JS snippets",
 		"SublimeLinter",
 		"SublimeLinter-clang",
-		"Theme - Numix Light",
+		"Swift",
+		"Theme - Aristocat",
+		"Theme - Midnight",
 		"Theme - Spaceblack",
 		"WakaTime"
 	]
