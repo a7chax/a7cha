@@ -4,14 +4,12 @@
 # Path to your oh-my-zsh installation.
 export ZSH="/home/a7cha/.oh-my-zsh"
 
-
-
-
 # Set name of the theme to load --- if set to "random", it will
 # load a random theme each time oh-my-zsh is loaded, in which case,
 # to know which specific one was loaded, run: echo $RANDOM_THEME
 # See https://github.com/ohmyzsh/ohmyzsh/wiki/Themes
 ZSH_THEME="bullet-train"
+
 
 # Set list of themes to pick from when loading at random
 # Setting this variable when ZSH_THEME=random will cause zsh to load
@@ -74,10 +72,11 @@ ZSH_THEME="bullet-train"
 plugins=(
 	git
 	zsh-syntax-highlighting
-	zsh-sdkman		
+	zsh-sdkman
 	nvm
 	history
 	sublime
+	zsh-wakatime
 	vscode
 )
 
@@ -112,3 +111,22 @@ source $ZSH/oh-my-zsh.sh
 #THIS MUST BE AT THE END OF THE FILE FOR SDKMAN TO WORK!!!
 export SDKMAN_DIR="/home/a7cha/.sdkman"
 [[ -s "/home/a7cha/.sdkman/bin/sdkman-init.sh" ]] && source "/home/a7cha/.sdkman/bin/sdkman-init.sh"
+
+source /etc/profile.d/apps-bin-path.sh
+
+export NVM_DIR="$([ -z "${XDG_CONFIG_HOME-}" ] && printf %s "${HOME}/.nvm" || printf %s "${XDG_CONFIG_HOME}/nvm")"
+[ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh" # This loads nvm
+
+
+export PATH=$PATH:"$HOME/Android/Sdk/emulator"
+
+
+
+export ANDROID_HOME=$HOME/Android/Sdk
+export PATH=$PATH:$ANDROID_HOME/emulator
+export PATH=$PATH:$ANDROID_HOME/tools
+export PATH=$PATH:$ANDROID_HOME/tools/bin
+export PATH=$PATH:$ANDROID_HOME/platform-tools
+
+export PATH=$PATH:/usr/local/go/bin
+
