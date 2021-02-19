@@ -1,8 +1,23 @@
 {
     "workbench.iconTheme": "material-icon-theme",
     "window.menuBarVisibility": "toggle",
-    "window.zoomLevel": -1,
-    "workbench.colorTheme": "Visual Studio Dark",
-    "editor.fontSize": 12,
+    "workbench.colorTheme": "Monokai Alt",
+    "workbench.editor.wrapTabs": true,
+    "workbench.editor.pinnedTabSizing": "compact",
+    "workbench.view.alwaysShowHeaderActions": true,
+    "workbench.editor.highlightModifiedTabs": true,
+    "workbench.editor.tabSizing": "shrink",
+    "window.zoomLevel": -2,
+    "editor.codeActionsOnSave": {
+        "source.fixAll.eslint":  true
+    },
+    "eslint.validate": [
+        "javascript"
+    ],
+    "eslint.alwaysShowStatus": true,
+    "eslint.format.enable": true,
+    "eslint.lintTask.enable": true,
+    "editor.tabSize": 2,
+    "editor.fontSize": 14.5
 
 }
