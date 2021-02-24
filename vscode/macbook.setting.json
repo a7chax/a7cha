@@ -1,0 +1,23 @@
+{
+    "workbench.iconTheme": "material-icon-theme",
+    "window.menuBarVisibility": "toggle",
+    "workbench.colorTheme": "Monokai Alt",
+    "workbench.editor.wrapTabs": true,
+    "workbench.editor.pinnedTabSizing": "compact",
+    "workbench.view.alwaysShowHeaderActions": true,
+    "workbench.editor.highlightModifiedTabs": true,
+    "workbench.editor.tabSizing": "shrink",
+    "editor.codeActionsOnSave": {
+        "source.fixAll.eslint":  true
+    },
+    "eslint.validate": [
+        "javascript"
+    ],
+    "eslint.alwaysShowStatus": true,
+    "eslint.format.enable": true,
+    "eslint.lintTask.enable": true,
+    "editor.tabSize": 2,
+    "editor.fontSize": 13,
+    "window.zoomLevel": -1
+
+}
