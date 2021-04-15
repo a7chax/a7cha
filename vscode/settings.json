@@ -17,7 +17,8 @@
     "eslint.format.enable": true,
     "eslint.lintTask.enable": true,
     "editor.tabSize": 2,
-    "editor.fontSize": 12,
+    "editor.fontSize": 12.5,
+    "editor.minimap.enabled": false,
     "window.zoomLevel": -1
 
 }
