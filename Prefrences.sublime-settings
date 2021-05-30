@@ -97,5 +97,5 @@
 	"tab_size": 4,
 	"theme": "Default.sublime-theme",
 	"hardware_acceleration": "opengl",
-	"sublime_merge_path": "/var/lib/snapd/desktop/applications/sublime-merge_sublime-merge.desktop",
+	"sublime_merge_path": "/snap/bin/sublime-merge",
 }
