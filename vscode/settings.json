@@ -17,8 +17,22 @@
     "eslint.format.enable": true,
     "eslint.lintTask.enable": true,
     "editor.tabSize": 2,
-    "editor.fontSize": 12.5,
-    "editor.minimap.enabled": false,
-    "window.zoomLevel": -1
+    "editor.fontSize": 13
+    ,"files.watcherExclude": {
+    "**/.git/objects/**": true,
+    "**/.git/subtree-cache/**": true,
+    "**/node_modules/*/**": true
+},
+"editor.inlineSuggest.enabled": true,
+"github.copilot.enable": {
+    "*": true,
+    "yaml": false,
+    "plaintext": false,
+    "markdown": false
+},
+"redhat.telemetry.enabled": true,
+"window.zoomLevel": -1,
+"synthwave84.brightness": 1,
+"editor.bracketPairColorization.enabled": true
 
 }
