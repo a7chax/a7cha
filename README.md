@@ -1,4 +1,4 @@
-# a7cha
+# a7chax
 my workspace configuration
 
 
@@ -6,3 +6,6 @@ my workspace configuration
 ```
 /Library/Developer/CoreSimulator/Profiles/Runtimes
 ```
+
+## Manager
+- [sdkman](https://sdkman.io/)
