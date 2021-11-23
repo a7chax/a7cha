@@ -1,8 +1,7 @@
 # a7chax
-my workspace configuration
 
-
-- Path IOS Simulator Version
+## Path
+- iOS Simulator Version
 ```
 /Library/Developer/CoreSimulator/Profiles/Runtimes
 ```
