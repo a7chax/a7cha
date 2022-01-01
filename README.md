@@ -22,10 +22,5 @@
 - show message ``` /dev/kvm is not found``` 
    - solution : 
    
-   ``` 
-   ~ sudo su
-   ~  ls -l /dev/kvm // to see still exist or not
-   ~ getfacl /dev/kvm // to describe permission
-   ~ chmod 777 -R /dev/kvm //for easiest permission
-   ~ try run avd
-    ```
+   ![image](https://user-images.githubusercontent.com/47318515/147851652-5e9f5400-8355-4473-865a-1144275a8bc1.png)
+
