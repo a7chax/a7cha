@@ -1,7 +1,6 @@
 {
     "workbench.iconTheme": "material-icon-theme",
     "window.menuBarVisibility": "toggle",
-    "workbench.colorTheme": "Monokai Alt",
     "workbench.editor.wrapTabs": true,
     "workbench.editor.pinnedTabSizing": "compact",
     "workbench.view.alwaysShowHeaderActions": true,
@@ -17,22 +16,20 @@
     "eslint.format.enable": true,
     "eslint.lintTask.enable": true,
     "editor.tabSize": 2,
-    "editor.fontSize": 13
-    ,"files.watcherExclude": {
-    "**/.git/objects/**": true,
-    "**/.git/subtree-cache/**": true,
-    "**/node_modules/*/**": true
-},
-"editor.inlineSuggest.enabled": true,
-"github.copilot.enable": {
-    "*": true,
-    "yaml": false,
-    "plaintext": false,
-    "markdown": false
-},
-"redhat.telemetry.enabled": true,
-"window.zoomLevel": -1,
-"synthwave84.brightness": 1,
-"editor.bracketPairColorization.enabled": true
+    "editor.fontSize": 12,
+    "jest.debugMode": true,
+    "jest.restartJestOnSnapshotUpdate": true,
+    "gitlens.advanced.messages": {
+        "suppressGitMissingWarning": true
+    },
+    "diffEditor.ignoreTrimWhitespace": false,
+    "editor.minimap.enabled": false,
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "json.maxItemsComputed": 10000,
+    "workbench.colorTheme": "Monokai Alt",
+    "editor.guides.bracketPairs": true,
+    "editor.guides.highlightActiveBracketPair": false,
+    "editor.bracketPairColorization.enabled": true,
+    "window.zoomLevel": -1
 
 }
