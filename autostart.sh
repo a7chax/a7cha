@@ -1,0 +1,1 @@
+killall plasmashell && plasmashell &
