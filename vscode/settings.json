@@ -1,6 +1,5 @@
 {
     "workbench.iconTheme": "material-icon-theme",
-    "window.menuBarVisibility": "toggle",
     "workbench.editor.wrapTabs": true,
     "workbench.editor.pinnedTabSizing": "compact",
     "workbench.view.alwaysShowHeaderActions": true,
@@ -16,7 +15,7 @@
     "eslint.format.enable": true,
     "eslint.lintTask.enable": true,
     "editor.tabSize": 2,
-    "editor.fontSize": 12,
+    "editor.fontSize": 13,
     "jest.debugMode": true,
     "jest.restartJestOnSnapshotUpdate": true,
     "gitlens.advanced.messages": {
