@@ -17,7 +17,7 @@
 		"*.jar",
 		"*.zip"
 	],
-	"color_scheme": "Packages/Color Scheme - Default/Monokai.sublime-color-scheme",
+	"color_scheme": "Packages/Color Scheme - Eazy Light/Eazy Light.tmTheme",
 	"drag_text": true,
 	"draw_indent_guides": true,
 	"extra_file_exclude_patterns":
@@ -42,15 +42,16 @@
 		"*.psd",
 		"*.db",
 		"*.sublime-workspace",
-		"index.android.bundle"
+		"*.*.bundle",
+		"index.android.bundle",
 	],
 	"extra_folder_exclude_patterns":
 	[
 		".svn",
-		".git",
 		".hg",
 		"CVS"
 	],
+	"reveal_menu": false,
 	"file_exclude_patterns":
 	[
 		"*.pyc",
@@ -79,7 +80,6 @@
 	"folder_exclude_patterns":
 	[
 		".svn",
-		".git",
 		".hg",
 		"CVS"
 	],
