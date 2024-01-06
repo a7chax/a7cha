@@ -17,7 +17,7 @@
 		"*.jar",
 		"*.zip"
 	],
-	"color_scheme": "Packages/Color Scheme - Default/Monokai.sublime-color-scheme",
+	"color_scheme": "Packages/Theme - Spaceblack/Color Schemes/Spaceblack-Monokai.tmTheme",
 	"drag_text": true,
 	"draw_indent_guides": true,
 	"extra_file_exclude_patterns":
@@ -42,16 +42,16 @@
 		"*.psd",
 		"*.db",
 		"*.sublime-workspace",
+		"*.*.bundle",
 		"index.android.bundle",
-		"*.snap"
 	],
 	"extra_folder_exclude_patterns":
 	[
 		".svn",
-		".git",
 		".hg",
 		"CVS"
 	],
+	"reveal_menu": false,
 	"file_exclude_patterns":
 	[
 		"*.pyc",
@@ -74,12 +74,12 @@
 		"*.psd",
 		"*.db",
 		"*.sublime-workspace",
+		"*.*.bundle",
 		"index.android.bundle"
 	],
 	"folder_exclude_patterns":
 	[
 		".svn",
-		".git",
 		".hg",
 		"CVS"
 	],
@@ -94,6 +94,9 @@
 	"margin": 1,
 	"shift_tab_unindent": true,
 	"show_line_endings": true,
-	"theme": "Default.sublime-theme",
+	"tab_size": 4,
+	"theme": "Default Dark.sublime-theme",
 	"hardware_acceleration": "opengl",
+	"sublime_merge_path": "/snap/bin/sublime-merge",
+	"index_files": true,
 }
