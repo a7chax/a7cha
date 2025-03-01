@@ -1,0 +1,5 @@
+www.youtube.com##ytd-mini-guide-renderer.ytd-app.style-scope
+www.youtube.com##ytd-video-renderer.ytd-item-section-renderer.style-scope:has(ytd-thumbnail-overlay-time-status-renderer[overlay-style="SHORTS"]) 
+www.youtube.com##ytd-guide-entry-renderer:has(yt-formatted-string.title:contains(Shorts))
+www.youtube.com##ytd-rich-section-renderer.ytd-rich-grid-renderer:has(span#title:contains(Shorts))
+
