@@ -6,5 +6,5 @@ www.youtube.com##ytd-reel-shelf-renderer.ytd-item-section-renderer.style-scope:n
 ! Mar 1, 2025 https://www.youtube.com
 
 ! Mar 1, 2025 https://www.youtube.com
-
-www.youtube.com##ytd-video-renderer.ytd-item-section-renderer.style-scope:has(ytd-thumbnail-overlay-time-status-renderer[overlay-style="SHORTS"]) #dismissible
+www.youtube.com##ytd-video-renderer.ytd-item-section-renderer.style-scope:has(ytd-thumbnail-overlay-time-status-renderer[overlay-style="SHORTS"]) 
+www.youtube.com##ytd-guide-entry-renderer:has(yt-formatted-string.title:contains(Shorts))
