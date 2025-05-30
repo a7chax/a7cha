@@ -17,3 +17,9 @@ www.youtube.com###voice-search-button > .ytd-masthead.style-scope > yt-button-sh
 ! Apr 18, 2025 https://www.youtube.com
 www.youtube.com###foreground-content
 
+
+! 16 May 2025 https://lms.binus.ac.id
+lms.binus.ac.id##.show.fade.modal
+lms.binus.ac.id##.show.fade.modal-backdrop
+
+
